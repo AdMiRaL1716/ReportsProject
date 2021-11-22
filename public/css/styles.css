@@ -1,0 +1,32 @@
+.border-radius-0 {
+    border-radius: 0!important;
+}
+
+.top-100 {
+    top: 100px !important;
+}
+
+.logout-button {
+    margin-left: 10px;
+}
+
+.logout-button:hover {
+    color: #232323 !important;
+}
+
+.bg-taltech {
+    background-color: #e4067e;
+}
+
+.text-taltech {
+    color: #e4067e;
+}
+
+@media (max-width: 715px) {
+    .logout-button {
+        margin-top: 10px;
+    }
+    .alert-icon {
+        margin-right: 0;
+    }
+}
